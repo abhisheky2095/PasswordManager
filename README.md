@@ -19,4 +19,4 @@ http://localhost:3000/fetch/server/all
 
 
 To get the info of particular server
-http://localhost:3000/fetch/server/"8.8.8.8"# PasswordManager
+http://localhost:3000/fetch/server/"8.8.8.8"
